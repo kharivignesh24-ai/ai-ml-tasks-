@@ -1,0 +1,11 @@
+# Day 01 - Titanic EDA
+
+## Tasks Done
+- Loaded Titanic dataset
+- Displayed head and tail
+- Basic understanding of features
+
+## Tools Used
+- Python
+- Pandas
+- Google Colab
